@@ -22,13 +22,13 @@
 
  <h2>📲  Let's Connect<h2>
  <a href="https://x.com/Kai_jellow">
-  <img align="left" alt="Cai's Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/iJellow101/main/x.png" />
+  <img align="left" alt="Cai's Twitter" height="24px" src="https://raw.githubusercontent.com/iJellow101/iJellow101/main/x.png" />
  </a>
  <a href="https://www.linkedin.com/in/cai-zheng">
-  <img align="left" alt="Cai's LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/iJellow101/main/linkedin.png" />
+  <img align="left" alt="Cai's LinkedIn" height="24px" src="https://raw.githubusercontent.com/iJellow101/iJellow101/main/linkedin.png" />
  </a>
  <a href="https://www.instagram.com/kaii.zheng/">
-  <img align="left" alt="Cai's Instagram" height="24px" src="https://raw.githubusercontent.com/shaqdeff/iJellow101/main/instagram.png" />
+  <img align="left" alt="Cai's Instagram" height="24px" src="https://raw.githubusercontent.com/iJellow101/iJellow101/main/instagram.png" />
    </a>
 </br>
  
@@ -46,15 +46,13 @@
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 
-          
-          
-                                                                                                                                           
+                                                                                                                                          
  </p>
      
   </br>
    <div>      
-  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaiZhengTech&show_icons=true&theme=gruvbox" alt="Cai's GitHub Stats"/>
-  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
+  <img height="200" width="450" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaiZhengTech&show_icons=true&theme=gruvbox" alt="Cai's GitHub Stats"/>
+  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiZhengTech&theme=gruvbox&layout=compact"/>
 </div>
 
 </br>
