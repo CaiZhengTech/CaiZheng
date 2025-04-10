@@ -22,13 +22,13 @@
 
  <h2>📲  Let's Connect<h2>
  <a href="https://x.com/Kai_jellow">
-  <img align="left" alt="Cai's Twitter" height="24px" src="https://raw.githubusercontent.com/iJellow101/iJellow101/main/x.png" />
+  <img align="left" alt="Cai's Twitter" height="24px" src="https://raw.githubusercontent.com/CaiZhengTech/iJellow101/main/x.png" />
  </a>
  <a href="https://www.linkedin.com/in/cai-zheng">
-  <img align="left" alt="Cai's LinkedIn" height="24px" src="https://raw.githubusercontent.com/iJellow101/iJellow101/main/linkedin.png" />
+  <img align="left" alt="Cai's LinkedIn" height="24px" src="https://raw.githubusercontent.com/CaiZhengTech/iJellow101/main/linkedin.png" />
  </a>
  <a href="https://www.instagram.com/kaii.zheng/">
-  <img align="left" alt="Cai's Instagram" height="24px" src="https://raw.githubusercontent.com/iJellow101/iJellow101/main/instagram.png" />
+  <img align="left" alt="Cai's Instagram" height="24px" src="https://raw.githubusercontent.com/CaiZhengTech/iJellow101/main/instagram.png" />
    </a>
 </br>
  
