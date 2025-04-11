@@ -10,11 +10,11 @@
 
 <img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 👨🏽‍💻   **Full-Stack Software Engineer** currently looking for new opportunities.
+- 👨   **Full-Stack Software Engineer** currently looking for new opportunities.
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently doing projects using the **MERN Stack**.
+- 🥷   I'm currently doing projects using the **MERN Stack**.
 
 - 🗓   Ask me about **JavaScript**, **React.js**, and **Next.js**.
 
